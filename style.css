@@ -1,9 +1,8 @@
 h2{
     text-transform: capitalize;
 }
-.myCard{
- img{
+.myCard img{ 
+ 
     width: 20%;
     height: 20%;
  }   
-}
