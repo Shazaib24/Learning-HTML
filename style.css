@@ -1,8 +1,12 @@
+body{
+    background-color: black;
+    color:white;    
+}
 h2{
     text-transform: capitalize;
 }
 .myCard img{ 
-    border-radius: 50%;
+    border-radius: 50;
     width: 20%;
     height: 20%;
  }   
