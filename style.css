@@ -21,4 +21,8 @@ h2{
  }   
 .zeb{
     background-color: rgba(165, 42, 42, 0.655);
+    width: 50%;
+    text-align: center;
+    padding: 50px 30px;
+    border-radius: 10px;
 }
